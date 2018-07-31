@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+您 Web 项目的发布/打包进程将使用此文件。您可以通过编辑此 MSBuild 文件
+来自定义该进程的行为。若要了解与此相关的详细信息，请访问 http://go.microsoft.com/fwlink/?LinkID=208121。
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAB9E96s5o30G0w3Tk+6oeXgAAAAACAAAAAAAQZgAAAAEAACAAAAAvgESufygi4u8HDSXRgFEj6TP2Iv//k23Wq9uTWnQelQAAAAAOgAAAAAIAACAAAADmvG97uupgbc12DIkQOpaBuF9c+pca1bSILYJPyrBzDyAAAABWK1bHdCNK75FFNa242QoxM0/R/voS4z3gboWd8ni5CEAAAADcNGViXUhSBVj70n61s7+WEWy/kFV6BN49GFHK1utUotQxnpXkSIdcY9TANM69GpzzIa8w+fDuvRHrQz34t4so</EncryptedPassword>
+    <_PublishTargetUrl>ftp://168.100.1.218/M_WL_Jzxlh</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/M_YKT_Ysfw.dll">
+      <publishTime>07/06/2018 15:11:21</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>11/11/2016 10:25:18</publishTime>
+    </File>
+    <File Include="bin/Oracle.DataAccess.dll">
+      <publishTime>08/25/2008 15:27:32</publishTime>
+    </File>
+    <File Include="Properties/DataSources/System.Data.DataTable.datasource">
+      <publishTime>02/27/2017 16:26:39</publishTime>
+    </File>
+    <File Include="Service/Container/FindMatchedContainerNoList.aspx">
+      <publishTime>05/28/2018 10:53:24</publishTime>
+    </File>
+    <File Include="Service/Container/GetContainerInfo.aspx">
+      <publishTime>05/28/2018 10:57:26</publishTime>
+    </File>
+    <File Include="Service/Container/GetDoubleContainerInfo.aspx">
+      <publishTime>05/28/2018 11:24:05</publishTime>
+    </File>
+    <File Include="Service/Download/DownloadBayStandard.aspx">
+      <publishTime>05/28/2018 10:47:50</publishTime>
+    </File>
+    <File Include="Service/Download/DownloadImageOfBay.aspx">
+      <publishTime>05/28/2018 14:19:42</publishTime>
+    </File>
+    <File Include="Service/Download/DownloadTruckNo.aspx">
+      <publishTime>05/28/2018 10:44:05</publishTime>
+    </File>
+    <File Include="Service/Entrance/Login.aspx">
+      <publishTime>05/28/2018 10:37:08</publishTime>
+    </File>
+    <File Include="Service/Query/GetWorkerOfSameClass.aspx">
+      <publishTime>05/28/2018 14:21:02</publishTime>
+    </File>
+    <File Include="Service/Query/GetWorkProgress.aspx">
+      <publishTime>05/28/2018 14:18:36</publishTime>
+    </File>
+    <File Include="Service/Tally/Export/DoubleLoadOfExport.aspx">
+      <publishTime>05/28/2018 11:29:01</publishTime>
+    </File>
+    <File Include="Service/Tally/Export/LoadOfExport.aspx">
+      <publishTime>05/28/2018 11:06:29</publishTime>
+    </File>
+    <File Include="Service/Tally/Export/ReloadOfExport.aspx">
+      <publishTime>05/28/2018 11:13:54</publishTime>
+    </File>
+    <File Include="Service/Tally/Import/DoubleUnloadOfImport.aspx">
+      <publishTime>05/28/2018 11:26:42</publishTime>
+    </File>
+    <File Include="Service/Tally/Import/OutCabinOfImport.aspx">
+      <publishTime>05/28/2018 11:07:43</publishTime>
+    </File>
+    <File Include="Service/Tally/Import/UnloadOfImport.aspx">
+      <publishTime>05/28/2018 11:06:25</publishTime>
+    </File>
+    <File Include="Service/Tally/Rollback.aspx">
+      <publishTime>05/28/2018 11:34:11</publishTime>
+    </File>
+    <File Include="Service/Voyage/GetArrangeVoyages.aspx">
+      <publishTime>05/28/2018 10:46:14</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>05/28/2018 14:26:00</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

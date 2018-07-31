@@ -1,0 +1,5 @@
+F:\Visual Studio2015\shenh.visualstudio.com\M_YKT_Ysfw\M_YKT_Ysfw\M_YKT_Ysfw\bin\M_YKT_Ysfw.dll.config
+F:\Visual Studio2015\shenh.visualstudio.com\M_YKT_Ysfw\M_YKT_Ysfw\M_YKT_Ysfw\bin\M_YKT_Ysfw.dll
+F:\Visual Studio2015\shenh.visualstudio.com\M_YKT_Ysfw\M_YKT_Ysfw\M_YKT_Ysfw\bin\M_YKT_Ysfw.pdb
+F:\Visual Studio2015\shenh.visualstudio.com\M_YKT_Ysfw\M_YKT_Ysfw\M_YKT_Ysfw\obj\Debug\M_YKT_Ysfw.dll
+F:\Visual Studio2015\shenh.visualstudio.com\M_YKT_Ysfw\M_YKT_Ysfw\M_YKT_Ysfw\obj\Debug\M_YKT_Ysfw.pdb

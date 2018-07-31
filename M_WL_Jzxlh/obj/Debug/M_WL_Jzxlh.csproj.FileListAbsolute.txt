@@ -1,0 +1,6 @@
+F:\Visual Studio2015\shenh.visualstudio.com\M_WL_Jzxlh\M_WL_Jzxlh\M_WL_Jzxlh\bin\M_YKT_Ysfw.dll.config
+F:\Visual Studio2015\shenh.visualstudio.com\M_WL_Jzxlh\M_WL_Jzxlh\M_WL_Jzxlh\bin\M_YKT_Ysfw.dll
+F:\Visual Studio2015\shenh.visualstudio.com\M_WL_Jzxlh\M_WL_Jzxlh\M_WL_Jzxlh\bin\M_YKT_Ysfw.pdb
+F:\Visual Studio2015\shenh.visualstudio.com\M_WL_Jzxlh\M_WL_Jzxlh\M_WL_Jzxlh\obj\Debug\M_YKT_Ysfw.dll
+F:\Visual Studio2015\shenh.visualstudio.com\M_WL_Jzxlh\M_WL_Jzxlh\M_WL_Jzxlh\obj\Debug\M_YKT_Ysfw.pdb
+F:\Visual Studio2015\shenh.visualstudio.com\M_WL_Jzxlh\M_WL_Jzxlh\M_WL_Jzxlh\obj\Debug\M_WL_Jzxlh.csprojResolveAssemblyReference.cache
